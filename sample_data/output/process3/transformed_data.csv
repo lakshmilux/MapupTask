@@ -1,0 +1,3 @@
+unit,trip_id,toll_loc_id_start,toll_loc_id_end,toll_loc_name_start,toll_loc_name_end,toll_system_type,entry_time,exit_time,tag_cost,cash_cost,license_plate_cost
+2000,2000_0,,,,,,,,,
+2000,2000_1,,,,,,,,,
